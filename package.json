@@ -1,0 +1,21 @@
+{
+    "author": "kevincorado97@yahoo.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "tutorial-1-hello-world",
+    "pebble": {
+        "displayName": "Tutorial 1 - Hello World",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "21980c78-b3df-47da-a0a7-17a90514cb3e",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
